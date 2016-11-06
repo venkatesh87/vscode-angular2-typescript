@@ -41,7 +41,7 @@ New Enum      |
 2. Launch Code
 3. From the command palette `Ctrl`-`Shift`-`P` (Windows, Linux) or `Cmd`-`Shift`-`P` (OSX)
 4. Select `Install Extension`
-5. Type `angular2 files` and press enter
+5. Type `angular2 typescript` and press enter
 6. Reload Visual Studio Code
 
 # Disclaimer
