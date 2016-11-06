@@ -4,7 +4,7 @@ This extension allows **quickly generating angular 2 files** in VS Code project.
 
 > Inspired by angular-cli (https://github.com/angular/angular-cli)
 
-![](https://github.com/venkatesh87/vscode-angular2-typescript/tree/master/images/logo.png)
+![VS Code Angular2 Typescript](https://github.com/venkatesh87/vscode-angular2-typescript/raw/master/images/logo.png)
 
 ## Changelog
 
