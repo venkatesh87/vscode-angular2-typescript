@@ -2,8 +2,8 @@
 
 This extension allows you to add Angular2 typescript files including snippets to your VS Code project.
 
-> Inspired by angular-cli (https://github.com/angular/angular-cli)
-> Inspired by [Dominik Kundel](https://github.com/dkundel)'s [Advanced New File - Visual Studio Code Extension](https://github.com/dkundel/vscode-new-file) and [John Papa](https://github.com/johnpapa)'s [Angular 2 TypeScript Snippets for VS Code](https://github.com/johnpapa/vscode-angular2-snippets).
+> Inspired by angular-cli (https://github.com/angular/angular-cli) [Dominik Kundel](https://github.com/dkundel)'s [Advanced New File - Visual Studio Code Extension](https://github.com/dkundel/vscode-new-file) and [John Papa](https://github.com/johnpapa)'s [Angular 2 TypeScript Snippets for VS Code](https://github.com/johnpapa/vscode-angular2-snippets). 
+
 > Forked from[Sebastian Baar](https://github.com/sebastianbaar/vscode-add-angular2-files) VS Code Add Angular2 Files
 
 ![VS Code Angular2 Typescript](https://github.com/venkatesh87/vscode-angular2-typescript/raw/master/images/logo.png)
